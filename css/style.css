@@ -1,0 +1,42 @@
+body{
+    background-image: url(../css/img/hallow.jpg);
+}
+h1{
+color:rgb(194, 141, 42);
+text-align: center;
+font-size: 70px;
+font-weight: 600;
+font-family: 'Times New Roman', serif;
+text-shadow: 2px 2px #f7f200;
+}
+#base{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+}
+.optn{
+    text-align: center;
+    font-size: larger;
+    font-style: bold;
+    margin: 100px;
+    width: 220px;
+    height: 100px;
+    border-radius: 100px;
+    background-color:rgb(238, 89, 35);
+    text-shadow: rgb(255, 208, 0);
+    
+    
+}
+.optn:hover{
+    height: 120px;
+    width: 250px;
+    transition: 0.3s;
+    background-color:rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    
+   
+
+
+}
